@@ -1,0 +1,69 @@
+{
+  MenuTitleBack = (hgradient, "rgb:50/5a/5e", "rgb:20/2a/2e");
+  FTitleColor = "#ffffff";
+  MenuDisabledColor = "#666666";
+  WindowShortcut9Key = None;
+  HelpBalloons = NO;
+  WindowShortcut2Key = None;
+  PixmapPath = (
+    "/home/uebayasi/GNUstep/Library/WindowMaker/Pixmaps",
+    "/home/uebayasi/GNUstep/Library/WindowMaker/Backgrounds",
+    "/usr/local/share/WindowMaker/Pixmaps",
+    "/usr/local/share/WindowMaker/Backgrounds",
+    "/usr/X11R6/include/X11/pixmaps",
+    "/usr/local/share/pixmaps",
+    "/usr/share/pixmaps"
+  );
+  IconTitleBack = "#384246";
+  HMaximizeKey = None;
+  FTitleBack = (hgradient, "rgb:50/5a/5e", "rgb:20/2a/2e");
+  MoveResizeKey = None;
+  AppIconBalloons = NO;
+  MiniwindowTitleBalloons = NO;
+  WindowShortcut7Key = None;
+  HighlightColor = "#ffffff";
+  WindowTitleFont = "Trebuchet MS,Luxi Sans:weight=200:pixelsize=14";
+  MenuTextBack = (hgradient, "rgb:c2/c0/c5", "rgb:82/80/85");
+  CycleWorkspaces = YES;
+  WindowShortcut8Key = None;
+  WindowShortcut5Key = None;
+  HideOthersKey = None;
+  ResizebarBack = (solid, "#a2a0a5");
+  IconPath = (
+    "/home/uebayasi/GNUstep/Library/Icons",
+    "/usr/local/share/WindowMaker/Icons",
+    "/usr/local/share/WindowMaker/Pixmaps",
+    "/usr/X11R6/include/X11/pixmaps",
+    "/home/uebayasi/GNUstep/Library/WindowMaker/Pixmaps",
+    "/usr/share/icons",
+    "/usr/local/share/pixmaps",
+    "/usr/share/pixmaps"
+  );
+  WindowShortcut10Key = None;
+  IconTitleColor = white;
+  TitleJustify = left;
+  MenuTextColor = "#000000";
+  Attraction = NO;
+  PTitleBack = (hgradient, "rgb:51/50/55", "rgb:80/80/80");
+  WindowShortcut6Key = None;
+  MenuTitleColor = "#ffffff";
+  AntialiasedText = NO;
+  DisableBlinking = NO;
+  WindowShortcut3Key = None;
+  UTitleColor = "#000000";
+  UTitleBack = (hgradient, "rgb:c2/c0/c5", "rgb:82/80/85");
+  CirculateRaise = NO;
+  PTitleColor = "#ffffff";
+  WorkspaceNameDisplayPosition = center;
+  SmoothWorkspaceBack = NO;
+  WindowShortcut4Key = None;
+  WindowShortcut1Key = None;
+  NoWindowOverDock = NO;
+  WorkspaceBack = (
+    tpixmap,
+    "/home/uebayasi/GNUstep/Library/WindowMaker/Backgrounds/planet_earth_surface_land_water_ocean_clouds_coast_line_8712_2560x1440.jpg",
+    gray20
+  );
+  ScreenSwitchKey = None;
+  HighlightTextColor = "#000000";
+}

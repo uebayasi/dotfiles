@@ -1,0 +1,20 @@
+{
+  firefox.Firefox = {
+    Icon = "/home/uebayasi/GNUstep/Library/WindowMaker/CachedPixmaps/firefox.Firefox.xpm";
+  };
+  soffice.Soffice = {
+    Icon = "/home/uebayasi/GNUstep/Library/WindowMaker/CachedPixmaps/soffice.Soffice.xpm";
+  };
+  "qemu-system-x86_64.Qemu-system-x86_64" = {
+    Icon = "/home/uebayasi/GNUstep/Library/WindowMaker/CachedPixmaps/qemu-system-x86_64.Qemu-system-x86_64.xpm";
+  };
+  eog.Eog = {
+    Icon = "/home/uebayasi/GNUstep/Library/WindowMaker/CachedPixmaps/eog.Eog.xpm";
+  };
+  "uim-pref-gtk.Uim-pref-gtk" = {
+    Icon = "/home/uebayasi/GNUstep/Library/WindowMaker/CachedPixmaps/uim-pref-gtk.Uim-pref-gtk.xpm";
+  };
+  xterm.UXTerm = {
+    Icon = "/home/uebayasi/GNUstep/Library/WindowMaker/CachedPixmaps/xterm.UXTerm.xpm";
+  };
+}
